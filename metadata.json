@@ -1,0 +1,5 @@
+{
+  "name": "University Management System",
+  "description": "A comprehensive University Management System built with React and Tailwind CSS. It provides role-based dashboards for administrators, teachers, and students to manage academic activities seamlessly.",
+  "requestFramePermissions": []
+}
